@@ -1,1 +1,58 @@
-
+[
+  {
+    "nama": "Harley-Davidson Sportster",
+    "tahun": "1957",
+    "asal": "Amerika Serikat",
+    "mesin": "883cc V-Twin",
+    "imageId": "sportster"
+  },
+  {
+    "nama": "Triumph Bonneville",
+    "tahun": "1959",
+    "asal": "Inggris",
+    "mesin": "649cc Parallel Twin",
+    "imageId": "bonneville"
+  },
+  {
+    "nama": "BMW R90S",
+    "tahun": "1973",
+    "asal": "Jerman",
+    "mesin": "898cc Boxer Twin",
+    "imageId": "r90s"
+  },
+  {
+    "nama": "Harley-Davidson Panhead",
+    "tahun": "1948",
+    "asal": "Amerika Serikat",
+    "mesin": "1200cc V-Twin",
+    "imageId": "panhead"
+  },
+  {
+    "nama": "Triumph Tiger 100",
+    "tahun": "1939",
+    "asal": "Inggris",
+    "mesin": "499cc Parallel Twin",
+    "imageId": "tiger100"
+  },
+  {
+    "nama": "BMW R69S",
+    "tahun": "1960",
+    "asal": "Jerman",
+    "mesin": "594cc Boxer Twin",
+    "imageId": "r69s"
+  },
+  {
+    "nama": "Harley-Davidson Knucklehead",
+    "tahun": "1936",
+    "asal": "Amerika Serikat",
+    "mesin": "1000cc V-Twin",
+    "imageId": "knucklehead"
+  },
+  {
+    "nama": "Norton Commando",
+    "tahun": "1967",
+    "asal": "Inggris",
+    "mesin": "745cc Parallel Twin",
+    "imageId": "commando"
+  }
+]
